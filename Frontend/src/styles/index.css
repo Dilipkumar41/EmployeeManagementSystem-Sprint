@@ -1,0 +1,10 @@
+/* Base reset & theme */
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; margin: 0; }
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f7f7fb;
+  color: #222;
+}
+h1 { margin: 0 0 12px; }
+code { background: #efefef; padding: 2px 6px; border-radius: 4px; }
